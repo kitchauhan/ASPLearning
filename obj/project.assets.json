@@ -224,19 +224,24 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\chetna.raghav\\.nuget\\packages\\": {}
+    "C:\\Users\\Bhaskar Singh\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\chetna.raghav\\source\\ASP.NET\\ContosoPizza\\ContosoPizza.csproj",
+      "projectUniqueName": "C:\\Users\\Bhaskar Singh\\source\\repos\\ASPLearning\\ContosoPizza.csproj",
       "projectName": "ContosoPizza",
-      "projectPath": "C:\\Users\\chetna.raghav\\source\\ASP.NET\\ContosoPizza\\ContosoPizza.csproj",
-      "packagesPath": "C:\\Users\\chetna.raghav\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\chetna.raghav\\source\\ASP.NET\\ContosoPizza\\obj\\",
+      "projectPath": "C:\\Users\\Bhaskar Singh\\source\\repos\\ASPLearning\\ContosoPizza.csproj",
+      "packagesPath": "C:\\Users\\Bhaskar Singh\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Bhaskar Singh\\source\\repos\\ASPLearning\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\chetna.raghav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Bhaskar Singh\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -244,6 +249,7 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
